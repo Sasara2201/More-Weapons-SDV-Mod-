@@ -1,0 +1,6 @@
+/Users/ishanjalan/Downloads/More-Weapons-SDV-Mod--master/bin/Debug/net452/MoreWeapons.dll
+/Users/ishanjalan/Downloads/More-Weapons-SDV-Mod--master/bin/Debug/net452/MoreWeapons.pdb
+/Users/ishanjalan/Downloads/More-Weapons-SDV-Mod--master/obj/Debug/net452/MoreWeapons.AssemblyInfoInputs.cache
+/Users/ishanjalan/Downloads/More-Weapons-SDV-Mod--master/obj/Debug/net452/MoreWeapons.AssemblyInfo.cs
+/Users/ishanjalan/Downloads/More-Weapons-SDV-Mod--master/obj/Debug/net452/MoreWeapons.dll
+/Users/ishanjalan/Downloads/More-Weapons-SDV-Mod--master/obj/Debug/net452/MoreWeapons.pdb
